@@ -1,0 +1,24 @@
+{
+  "name": "candoia-sample-app",
+  "productName": "Candoia Sample App",
+  "version": "1.0.0",
+  "description": "My sample app",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmills/candoia-sample-app.git"
+  },
+  "author": "Dalton Mills",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddmills/candoia-sample-app/issues"
+  },
+  "homepage": "https://github.com/ddmills/candoia-sample-app#readme",
+  "icon": {
+    "type": "fa",
+    "name": "lightbulb-o"
+  }
+}
